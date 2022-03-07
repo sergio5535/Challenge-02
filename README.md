@@ -5,3 +5,7 @@ Binar Academy Challenge 02, Javascript Sorting
 - Availability
 - Ascending Year
 - Descending Year
+
+# Technology
+- HTML
+- Javascript
